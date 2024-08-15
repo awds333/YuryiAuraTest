@@ -5,6 +5,8 @@ Add permission requesting that notifications, worker and booting on system boot 
 
 Manualy register broadcast reseivers
 
+Remove unused Dependencies
+
 Add Ui elements for notification perioud controll
 
 Add Dependencies in KoinModules
